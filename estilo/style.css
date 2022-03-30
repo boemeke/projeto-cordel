@@ -92,8 +92,8 @@ section.imagem>p {
 
 section#img01{
     background-image: url('../imagens/background001.jpg');
-    background-repeat: no-repeat;
-    background-position: 50%;
+    background-size: cover;
+    background-position:right;
 }
 
 section#img02{
